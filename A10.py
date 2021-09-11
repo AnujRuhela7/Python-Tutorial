@@ -9,3 +9,4 @@ elif choice == 'J' or choice == 'j':
     s = '-'
     a = s.join(str1)
     print(str(a))
+    print("anuj")
