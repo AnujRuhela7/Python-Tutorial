@@ -1,0 +1,5 @@
+L1 = eval(input("Enter list elements : "))
+length = len(L1)
+L1.sort()
+print(L1)
+print("Second Largest Number = ",L1[length-2])
